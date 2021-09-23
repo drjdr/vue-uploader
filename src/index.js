@@ -7,7 +7,7 @@ import UploaderFiles from './components/files.vue'
 import UploaderFile from './components/file.vue'
 
 const uploader = {
-  version: /* eslint-disable no-undef */ __VERSION__,
+  version: 2,
   install,
   Uploader,
   UploaderBtn,
